@@ -36,4 +36,4 @@ The script will:
  - Note : time.sleep(1) for visibility in screen recordings.
 
 4 - Assumptions Made :
-  EvilTester’s To-Do List web application was chosen as it's a lightweight To-Do list app built with HTML, JavaScript, and Local Browser Storage. It includes bugs and automation challenges, making it perfect for testing practice.
+  EvilTester’s To-Do List web application was chosen as it's a lightweight To-Do list app built with HTML, JavaScript, and Local Browser Storage. It includes bugs and automation challenges, making it perfect for the required.
